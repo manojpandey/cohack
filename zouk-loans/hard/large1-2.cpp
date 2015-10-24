@@ -1,5 +1,5 @@
 /*
-	Write an algorithm with O(N)<2N to find 1st two largest number in an list.
+	Write an algorithm with Time Complexity: O(N)<2N to find 1st two largest number in an list.
 	Author: teamJSON
 	Date: 10/24/2015 GMT+5.30
 
