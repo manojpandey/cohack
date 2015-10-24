@@ -3,7 +3,7 @@
 
 ## Difficulty Level: Easy
 
-1. Scrap the following links:
+###### Scrap the following links:
 - http://www.dciindia.org.in/CouncilMember.aspx
 - http://www.indiannursingcouncil.org/pdf/snrc-State-Nursing-Registration-Council.pdf
 - http://www.cicuindia.org/members_directory
@@ -46,8 +46,11 @@
 6. Extract everything about a company that you can get out of the NowFloats and create some graphs out of it
 7. Capture different indices from Zomato and create your own Aggregate score
 8. Create an API using nodeJS framework from the two website that helps in retrieving data about a company:
-- a. https://www.tofler.in/
-- b. https://www.zauba.com/
+  
+  a. https://www.tofler.in/
+  
+  b. https://www.zauba.com/
+
 You need to design an API which can extract information about the company (input), out of these two, wherever returns; if both, best amongst the two.
 
 ## Difficulty Level: Hard
