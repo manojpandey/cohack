@@ -4,37 +4,37 @@
 ## Difficulty Level: Easy
 
 1. Scrap the following links:
-a. http://www.dciindia.org.in/CouncilMember.aspx
-b. http://www.indiannursingcouncil.org/pdf/snrc-State-Nursing-Registration-Council.pdf
-c. http://www.cicuindia.org/members_directory
-d. http://www.cicuindia.org/office_beares
-e. http://cimml.in/members-list.html
-f. http://www.fastenerindia.org/functions.php?fuse=6
-g. http://www.lmtma.org/Member/index_0.html
-h. http://www.ssia.co.in/members-s-30.html
-i. http://www.cmaindia.org/index.php?rid=12
-j. http://www.idma-assn.org/pdf/membership-statewise.pdf
-k. http://tematelecom.in/membership_profile_members.html
-l. http://www.elcomaindia.com/directory/member-listing
-m. http://aipima.org/aipima/list-of-members
-n. http://www.i-cema.in/membership-directory.html
-o. http://www.indianpumps.org.in/organisation/office-bearers.html
-p. http://www.indianpumps.org.in/membership/search-members.html
-q. http://www.irmra.org/membership/members_list.htm
-r. http://www.maharashtradirectory.com/industrialresources/manufacturers-associations-mumbai.htm
-s. http://www.nstedb.com/institutional/tbi-center.htm
-t. http://ipfindia.org/MembersDirectory.aspx
-u. http://www.siamindia.com/members.aspx?mpgid=1&pgidtrail=4
-v. http://www.aifmp.com/?page_id=44
-w. http://ieia.in/members/list-members/associate
-x. http://www.electronicahitech.com/#
-y. http://www.dnb.co.in/SMEs/company_listing.asp?q=alphabetical
-z. http://isba.in/members/incubatee-member
-aa. http://smejoinup.com/all-business-services/
-ab. http://www.ipcaonline.com/members/members-list-a.html
-ac. http://ipca.org.in/active-members/1/
-ad. http://www.ipcaindia.org/AllSearch.aspx?SearchString=all
-ae. http://locator.intel.in/find-reseller/
+- http://www.dciindia.org.in/CouncilMember.aspx
+- http://www.indiannursingcouncil.org/pdf/snrc-State-Nursing-Registration-Council.pdf
+- http://www.cicuindia.org/members_directory
+- http://www.cicuindia.org/office_beares
+- http://cimml.in/members-list.html
+- http://www.fastenerindia.org/functions.php?fuse=6
+- http://www.lmtma.org/Member/index_0.html
+- http://www.ssia.co.in/members-s-30.html
+- http://www.cmaindia.org/index.php?rid=12
+- http://www.idma-assn.org/pdf/membership-statewise.pdf
+- http://tematelecom.in/membership_profile_members.html
+- http://www.elcomaindia.com/directory/member-listing
+- http://aipima.org/aipima/list-of-members
+- http://www.i-cema.in/membership-directory.html
+- http://www.indianpumps.org.in/organisation/office-bearers.html
+- http://www.indianpumps.org.in/membership/search-members.html
+- http://www.irmra.org/membership/members_list.htm
+- http://www.maharashtradirectory.com/industrialresources/manufacturers-associations-mumbai.htm
+- http://www.nstedb.com/institutional/tbi-center.htm
+- http://ipfindia.org/MembersDirectory.aspx
+- http://www.siamindia.com/members.aspx?mpgid=1&pgidtrail=4
+- http://www.aifmp.com/?page_id=44
+- http://ieia.in/members/list-members/associate
+- http://www.electronicahitech.com/#
+- http://www.dnb.co.in/SMEs/company_listing.asp?q=alphabetical
+- http://isba.in/members/incubatee-member
+- http://smejoinup.com/all-business-services/
+- http://www.ipcaonline.com/members/members-list-a.html
+- http://ipca.org.in/active-members/1/
+- http://www.ipcaindia.org/AllSearch.aspx?SearchString=all
+- http://locator.intel.in/find-reseller/
 
 ## Difficulty Level: Medium
 
@@ -46,8 +46,8 @@ ae. http://locator.intel.in/find-reseller/
 6. Extract everything about a company that you can get out of the NowFloats and create some graphs out of it
 7. Capture different indices from Zomato and create your own Aggregate score
 8. Create an API using nodeJS framework from the two website that helps in retrieving data about a company:
-a. https://www.tofler.in/
-b. https://www.zauba.com/
+- a. https://www.tofler.in/
+- b. https://www.zauba.com/
 You need to design an API which can extract information about the company (input), out of these two, wherever returns; if both, best amongst the two.
 
 ## Difficulty Level: Hard
