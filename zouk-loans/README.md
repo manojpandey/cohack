@@ -39,7 +39,7 @@
 ## Difficulty Level: Medium
 
 1. [[Puzzle] Using bit-wise operator, check the power of 2.](https://github.com/manojpandey/cohack/blob/master/zouk-loans/medium/powerOfTwo.cpp)
-2. [Puzzle] Make arrangement to cover 8x8 Chessboard using 2x1 Domino, if exteme opposite two bits of chessboard is already covered.
+2. [[Puzzle] Make arrangement to cover 8x8 Chessboard using 2x1 Domino, if exteme opposite two bits of chessboard is already covered.](https://github.com/manojpandey/cohack/blob/master/zouk-loans/medium/domino.txt)
 3. [[Puzzle] Minimum number of checks required from N-floor with 2 eggs](https://github.com/manojpandey/cohack/blob/master/zouk-loans/medium/twoEggs.cpp)
 4. Create general purpose OCR for the given pdf file.
 5. Create an underwriting of NeoGrowth Product
