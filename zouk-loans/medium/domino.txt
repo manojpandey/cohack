@@ -1,5 +1,7 @@
 We are Given 8x8 Chessboard and 2x1 Domino, and extreme opp. two bits are already covered.
 Sol:
-	Every 2x1 domino needs a pair of black and white. Hence if we have already checked 2 bits, then we are left with (30 black and 32 white) or (32 black and 30 white). Therefore the max pair possible is 30 to be covered by domino. And The remaining are left out.
+	Every 2x1 domino needs a pair of black and white. Hence if we have already checked 2 bits, 
+	then we are left with (30 black and 32 white) or (32 black and 30 white). 
+	Therefore the max pair possible is 30 to be covered by domino. And The remaining are left out.
 
 	
